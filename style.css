@@ -1,0 +1,15 @@
+* {
+    text-align: center;
+    background-color: rgb(253, 225, 172);
+}
+
+ul,
+ol {
+    list-style-position: inside;
+}
+
+img {
+    width: 600px;
+    height: auto;
+    border-radius: 8px;
+}
